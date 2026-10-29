@@ -1,0 +1,87 @@
+{
+  "as_of": "2026-10-30",
+  "unit": "distinct course/activity, not number of sessions or students",
+  "counts": {
+    "delivered_activities": 6,
+    "recurring_education_activities": 2,
+    "total": 8
+  },
+  "entries": [
+    {
+      "id": "teach-hermes",
+      "institution": "바이브코더 루피",
+      "title": "AI 헤르메스 원데이 클래스",
+      "role": "강사 · 실습 진행",
+      "date": "2026.10.05",
+      "description": "AI 에이전트로 문서·콘텐츠 제작, 업무별 대화·파일 정리와 일정 관리 실습을 진행했습니다. 실제 수업 기록을 바탕으로 복습자료와 강사용 가이드를 제작했습니다.",
+      "status": "delivered"
+    },
+    {
+      "id": "teach-pharmacy",
+      "institution": "고양시약사회",
+      "title": "AI 활용 교육 · 약국 POP 제작",
+      "role": "보충연수교육 강사 · 교육자료 제작",
+      "date": "진행 경력 · 정확한 일자 미기재",
+      "description": "약사 대상 AI 활용 강의와 약국 POP 제작 실습을 다뤘습니다. 강의자료·평가문항과 현장 실습을 보완하는 사후 자료를 구성했습니다.",
+      "status": "delivered"
+    },
+    {
+      "id": "teach-fastcampus-saju",
+      "institution": "패스트캠퍼스",
+      "title": "AI 사주 사이트 만들기",
+      "role": "원데이클래스 강사",
+      "date": "진행 경력 · 정확한 일자 미기재",
+      "description": "AI 도구를 활용해 사주 사이트를 만드는 실습형 클래스를 진행했습니다. 비개발자도 웹서비스 제작 과정을 따라갈 수 있도록 결과물 중심으로 설명했습니다.",
+      "status": "delivered",
+      "public_url": "https://fastcampus.co.kr/biz_online_destiny",
+      "official_title_or_topic": "3시간 완성! 바이브코딩으로 만드는 AI 사주 웹사이트 원데이클래스"
+    },
+    {
+      "id": "teach-fastcampus-shorts",
+      "institution": "패스트캠퍼스",
+      "title": "AI 쇼츠 자동화",
+      "role": "원데이클래스 강사",
+      "date": "진행 경력 · 정확한 일자 미기재",
+      "description": "AI 영상 제작과 쇼츠 자동화를 주제로 실습형 클래스를 진행했습니다. Remotion 기반 영상 조립·렌더링과 AI 미디어 제작 흐름을 다루는 커리큘럼을 구성했습니다.",
+      "status": "delivered",
+      "public_url": "https://fastcampus.co.kr/camp_oneday_remotion",
+      "official_title_or_topic": "AI 쇼츠 자동화"
+    },
+    {
+      "id": "teach-youtube-live",
+      "institution": "유튜브 · 바이브코더 루피",
+      "title": "이메일 서버 구축 라이브 원데이클래스",
+      "role": "라이브 강의 진행",
+      "date": "진행 경력 · 정확한 일자 미기재",
+      "description": "이메일 서버 구축을 주제로 유튜브 라이브 원데이클래스를 진행했습니다. Postfix 직접 구축, SPF/DKIM 인증과 실무 발송 서비스 연계를 다루는 실습자료를 활용했습니다.",
+      "status": "delivered"
+    },
+    {
+      "id": "teach-iksun",
+      "institution": "익선런웨이",
+      "title": "AI 활용 수업",
+      "role": "AI 활용 교육",
+      "date": "진행 경력 · 정확한 일자 미기재",
+      "description": "익선런웨이에서 AI 활용 수업을 진행했습니다. 개별 기획안의 제목을 각각 별도 강의 실적으로 나누지 않고, 확인된 교육 활동 단위로 기재합니다.",
+      "status": "delivered"
+    },
+    {
+      "id": "teach-executive",
+      "institution": "기업 임원 대상 개인 교육",
+      "title": "1:1 컴퓨터 기초·생성형 AI 활용",
+      "role": "개인 교육 · 맞춤 지도",
+      "date": "수행 기록 확인 · 전체 기간 미기재",
+      "description": "컴퓨터 기초에서 생성형 AI 질문·활용까지 학습자의 업무와 수준에 맞춰 지도했습니다. 회사 전체 AX 구축이나 별도 자동화 제안과 구분되는 1:1 교육 경험입니다.",
+      "status": "recurring_delivered"
+    },
+    {
+      "id": "teach-coding",
+      "institution": "프로젝트 기반 개인 교육",
+      "title": "AI·코딩 실습 및 학습자 맞춤 지도",
+      "role": "개인 교육 · 커리큘럼·교재 제작",
+      "date": "수행 기록 확인 · 전체 기간 미기재",
+      "description": "웹서비스 제작·배포와 보안 실습, 모바일 앱 테스트·UI 개선·심사 준비를 지도했습니다. 질문·시각화 중심의 기초 과학 학습지도와 영문 교재 풀이·연습문제 제작도 병행했습니다.",
+      "status": "recurring_delivered"
+    }
+  ]
+}
